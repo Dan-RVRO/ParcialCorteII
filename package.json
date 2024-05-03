@@ -8,7 +8,9 @@
     "pregunta1": "node pregunta1.js",
     "pregunta2": "node pregunta2.js",
     "pregunta3": "node pregunta3.js",
-    "pregunta4": "node pregunta4.js"
+    "pregunta4": "node pregunta4.js",
+    "pregunta5": "node pregunta5.js",
+    "pregunta6": "node pregunta6.js"
 
   },
   "keywords": [],
