@@ -10,7 +10,11 @@
     "pregunta3": "node pregunta3.js",
     "pregunta4": "node pregunta4.js",
     "pregunta5": "node pregunta5.js",
-    "pregunta6": "node pregunta6.js"
+    "pregunta6": "node pregunta6.js",
+    "pregunta7": "node pregunta7.js",
+    "pregunta8": "node pregunta8.js",
+    "pregunta9": "node pregunta9.js",
+    "pregunta10": "node pregunta10.js"
 
   },
   "keywords": [],
