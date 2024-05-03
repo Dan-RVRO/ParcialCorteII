@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pregunta1": "node pregunta1.js"
+    "pregunta1": "node pregunta1.js",
+    "pregunta2": "node pregunta2.js",
+    "pregunta3": "node pregunta3.js",
+    "pregunta4": "node pregunta4.js"
 
   },
   "keywords": [],
